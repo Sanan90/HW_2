@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageCityWidth">400</dimen>
+    <dimen name="imageCityHeight">250dp</dimen>
+
+    <dimen name="temperatureWidth">150</dimen>
+    <dimen name="temperatureHeight">150dp</dimen>
+
+    <dimen name="cityWidth">300</dimen>
+    <dimen name="cityHeight">100dp</dimen>
+
+
+    <dimen name="celsiusWidth">90dp</dimen>
+    <dimen name="celsiusHeight">75dp</dimen>
+
+    <dimen name="imageWeatherWidth">180</dimen>
+    <dimen name="imageWeatherHeight">180dp</dimen>
+
+    <dimen name="mainWidth">400</dimen>
+    <dimen name="mainHeight">100dp</dimen>
+
+</resources>
